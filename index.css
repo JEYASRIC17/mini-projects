@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 100px;
+      background: linear-gradient(to right, rgb(184, 117, 184), rgb(194, 66, 194));
+
+  
+}
+h1{
+    text-align: center;
+    color:rgb(54, 9, 54);
+    margin-bottom: 5px;
+}
+#form-validation{
+    border: 1px solid rgb(180, 175, 175);
+    width: 30vw;
+    min-width: 300px;
+    height: 65vh;
+    box-shadow: 2px 5px 10px rgb(238, 235, 238) ;
+    margin: auto;
+    padding: 15px;
+    display: grid;
+    border-radius: 7px;
+    
+}
+#form-validation .form-froup{
+    display: flex;
+    flex-direction: column;
+}
+#form-validation .form-froup input{
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    border: 1px solid rgb(214, 204, 204);
+    font-size: 15px;
+    padding: 5px;
+    background-color:  transparent;
+}
+span{
+    margin-top: 5px;
+    color: rgb(194, 36, 36);
+    font-size: 18px;
+}
+#form-validation .form-froup label{
+    font-size: 20px;
+    color:rgb(54, 9, 54);
+    margin-bottom: 5px;
+}
+#form-validation button{
+    height: 35px;
+    background-color: rgb(54, 9, 54);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-size: 20px;
+}
