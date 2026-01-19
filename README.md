@@ -25,7 +25,8 @@ This project was created to practice:
 - JavaScript form validation logic
 - DOM manipulation
 - Basic front-end development skills
-  ## Author
+- Using Git and GitHub for version control
+## Author
 C. Jeyasri  
 Web Development Enthusiast
-- Using Git and GitHub for version control
+
